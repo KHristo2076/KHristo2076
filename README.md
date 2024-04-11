@@ -6,7 +6,7 @@
 
 Originally from Sochi 🌴
 
-- :telescope: Love working with data.
+- :telescope: Love working with PC.
 
 - :seedling: I like to learn new things and do self-study.
 
