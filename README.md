@@ -16,7 +16,4 @@ Originally from Sochi 🌴
 </p>
    
 -----------
-   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khristo&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
-   
--------------
+
