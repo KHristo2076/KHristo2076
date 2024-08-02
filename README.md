@@ -1,8 +1,8 @@
-͇"͇У͇ ͇и͇н͇ж͇е͇н͇е͇р͇а͇ ͇н͇е͇т͇ ͇ц͇е͇л͇и͇,͇ ͇е͇с͇т͇ь͇ ͇т͇о͇л͇ь͇к͇о͇ ͇п͇у͇т͇ь͇!͇"
+"From the engineer There is no goal, there is only a way!"
 ----------------
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://steamuserimages-a.akamaihd.net/ugc/1788485010715423616/083027AEA08645D61EC08F224D794DC5A4899AD8/?imw=512&amp;amp;imh=289&amp;amp;ima=fit&amp;amp;impolicy=Letterbox&amp;amp;imcolor=%23000000&amp;amp;letterbox=true;" align="right" width="410" height="255" >
 
-   I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Novorossisk. 
+   I am a Java developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Pétersbourg. 
 
 Originally from Sochi 🌴
 
